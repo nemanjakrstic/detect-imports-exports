@@ -1,0 +1,7 @@
+{
+  "private": true,
+  "dependencies": {
+    "glob": "^7.1.2",
+    "lexical-scope": "^1.2.0"
+  }
+}
